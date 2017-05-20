@@ -1,0 +1,12 @@
+Map Area: Cheveland, Ohio, Unit States
+
+https://www.openstreetmap.org/relation/182130#map=11/41.4980/-81.7060
+https://mapzen.com/data/metro-extracts/metro/
+
+Description:
+Cleveland  is a city in the U.S. state of Ohio and the county seat of Cuyahoga County, the state's second most populous county. The city proper has a population of 388,072, making Cleveland the 51st largest city in the United States, and the second-largest city in Ohio after Columbus. 
+
+The city is located on the southern shore of Lake Erie, approximately 60 miles (100 kilometers) west of the Pennsylvania border. It was founded in 1796 near the mouth of the Cuyahoga River, and became a manufacturing center owing to its location on the lake shore, as well as being connected to numerous canals and railroad lines. Cleveland's economy has diversified sectors that include manufacturing, financial services, healthcare, and biomedical. Cleveland is also home to the Rock and Roll Hall of Fame.
+
+Reason:
+I choose the cleveland city map information as my project that have mutiaspect reasons. Firstly, the city is located in USA that i can more simplely process data according to same method in teaching material. Secondly, I will be confronted with data that have a lot of messy code or unknowable encoding if i use data in non-English-speaking country. Thirdly, I expect an as possible as complete data to deeply analyze data, so i will acquire accurate result by this way. Finally, i am faithful fans of Cleveland Cavaliers that is one of basketball team in NBA, i want to explore this city what have kind of charm and culture.

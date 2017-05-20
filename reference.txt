@@ -1,0 +1,17 @@
+Website:
+
+http://wiki.openstreetmap.org/wiki/Name_finder:Abbreviations
+
+https://docs.python.org/2/library/re.html
+
+https://www.zip-codes.com/city/oh-cleveland.asp
+
+https://en.wikipedia.org/wiki/Cleveland
+
+http://www.csuohio.edu/business/osm/osm-undergraduate-course-descriptions
+
+http://wiki.openstreetmap.org/wiki/TIGER
+
+http://wiki.openstreetmap.org/wiki/TIGER_fixup/node_tags
+
+http://wiki.openstreetmap.org/wiki/Key:generator:source
