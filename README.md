@@ -1,2 +1,2 @@
-# P3-prcject
+# P3-project
 data analysis-data wrangle
